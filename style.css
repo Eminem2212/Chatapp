@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;1,100;1,200;1,300&family=Roboto:wght@300&display=swap");
+body {
+  margin: 0;
+}
+
+.text1 {
+  width: 100%;
+  -webkit-box-pack: end;
+      -ms-flex-pack: end;
+          justify-content: flex-end;
+}
+
+.nav-link {
+  color: #fff !important;
+}
+/*# sourceMappingURL=style.css.map */
